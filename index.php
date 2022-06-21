@@ -239,7 +239,8 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-arch"></i></div>
               <h4><a href="">agents</a></h4>
-              <p>be an agent and make money online</p>
+              <p>be an agent of addidas and make money online</p>
+              <p>https://www.adidas.com/us/invite?invitationCode=adidas0W05CRKOINCP</p>
             </div>
           </div>
 
