@@ -64,8 +64,8 @@
 
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
         <div class="col-xl-6 col-lg-8">
-          <h1>Tech H-Quality With E-envoy<span>.</span></h1>
-          <h2>We are team of talanted digital marketers</h2>
+          <h1>Wise Up Youths<span>.</span></h1>
+          <h2>Team of talanted digital marketers</h2>
         </div>
       </div>
 
@@ -146,9 +146,7 @@
           <img src="assets/img/clients/client-3.png" alt="">
           <img src="assets/img/clients/client-4.png" alt="">
           <img src="assets/img/clients/client-5.png" alt="">
-          <img src="assets/img/clients/client-6.png" alt="">
-          <img src="assets/img/clients/client-7.png" alt="">
-          <img src="assets/img/clients/client-8.png" alt="">
+          
         </div>
 
       </div>
