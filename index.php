@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Envoy</title>
+  <title>Wise Up Youth</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
   
@@ -65,7 +65,7 @@
       <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
         <div class="col-xl-6 col-lg-8">
           <h1>Wise Up Youths<span>.</span></h1>
-          <h2>Team of talanted digital marketers</h2>
+          <h2>We are team of talanted digital marketers</h2>
         </div>
       </div>
 
@@ -73,13 +73,13 @@
         <div class="col-xl-2 col-md-4 col-6">
           <div class="icon-box">
             <i class="ri-store-line"></i>
-            <h3><a href="">ICT</a></h3>
+            <h3><a href="http://www.wiseup.epizy.com/">ICT</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4 col-6 ">
           <div class="icon-box">
             <i class="ri-bar-chart-box-line"></i>
-            <h3><a href="">ELECTRICAL</a></h3>
+            <h3><a href="http://www.wiseup.epizy.com/">ELECTRICAL</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4 col-6 mt-4 mt-md-0">
@@ -97,7 +97,7 @@
         <div class="col-xl-2 col-md-4 col-6 mt-4 mt-xl-0">
           <div class="icon-box">
             <i class="ri-database-2-line"></i>
-            <h3><a href="">E-products</a></h3>
+            <h3><a href="E-products/index.php">E-products</a></h3>
           </div>
         </div>
       </div>
@@ -113,10 +113,10 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/wozitsata.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-            <h3>E-envoy H-Quality Tech Giants.</h3>
+            <h3>Wise Up.</h3>
             <p class="font-italic">
               We are High Quality tech solutions Giants . Bringing technology at your finger tip . experience the world of technology while are your home
             </p>
@@ -146,6 +146,7 @@
           <img src="assets/img/clients/client-3.png" alt="">
           <img src="assets/img/clients/client-4.png" alt="">
           <img src="assets/img/clients/client-5.png" alt="">
+          <img src="assets/img/clients/client-6.png" alt="">
           
         </div>
 
@@ -230,7 +231,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4><a href="">E-products</a></h4>
+              <h4><a href="E-products/index.php">E-products</a></h4>
               <p>We sell High Quality Tech Products</p>
             </div>
           </div>
@@ -239,8 +240,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-arch"></i></div>
               <h4><a href="">agents</a></h4>
-              <p>be an agent of addidas and make money online</p>
-              <p>https://www.adidas.com/us/invite?invitationCode=adidas0W05CRKOINCP</p>
+              <p>be an agent and make money online</p>
             </div>
           </div>
 
@@ -703,7 +703,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>e-Envoy<span>.</span></h3>
+              <h3>Wise Up Youth<span>.</span></h3>
               <p>
                 Mpemba Street <br>
                 Blantyre, Malawi<br><br>
@@ -761,7 +761,7 @@
       </div>
       <div class="credits">
         
-        Designed by <a href="http://www.wiseup.epizy.com/">Prince Escales Nsusa</a>
+        Designed by <a href="http://www.wiseupyouth.com/">Prince Escales Nsusa</a>
       </div>
     </div>
   </footer><!-- End Footer -->
