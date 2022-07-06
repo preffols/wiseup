@@ -199,7 +199,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">ICT</a></h4>
+              <h4><a href="https://api.whatsapp.com/send?phone=265980519051&text=(id=1347)%20i%20want%20to%20buy%20your%20product">ICT</a></h4>
               <p>We offer best ICT services </p>
             </div>
           </div>
@@ -223,7 +223,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">ICT</a></h4>
+              <h4><a href="https://api.whatsapp.com/send?phone=265980519051&text=(id=1347)%20i%20want%20to%20buy%20your%20product">ICT</a></h4>
               <p>We Provide High Excellence ICT Services</p>
             </div>
           </div>
